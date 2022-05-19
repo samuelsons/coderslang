@@ -1,12 +1,11 @@
-const users = {
+export const users = {
   1: {
-    name: 'Connor',
+    name: "Connor",
   },
   2: {
-    name: 'Harry',
+    name: "Harry",
   },
   3: {
-    name: 'Jack',
+    name: "Jack",
   },
 };
-
