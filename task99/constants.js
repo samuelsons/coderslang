@@ -1,3 +1,3 @@
 // add constants
 export const rideSpeed = 10;
-export const rideTime = 23;
+export const rideTime = 24;
